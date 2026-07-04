@@ -53,7 +53,7 @@ Team project deriving the Eigenface (PCA) method for face recognition from covar
 - Semiconductor Device Modeling
 - TCAD Simulation
 - High-Temperature Semiconductor Behavior
-- Wide-Bandgap Semiconductors (GaN)
+- Wide-Bandgap Semiconductors 
 - Scientific Computing
 - Numerical Modeling
 - Nanoelectronics
