@@ -1,4 +1,4 @@
-# Hassan Emad Sayed
+# Engineer Hassan Emad Sayed
 **Nanotechnology & Nanoelectronics Engineering Student — Zewail City of Science and Technology**
 
 **Research Focus:** Semiconductor Device Physics • TCAD Simulation • Scientific Computing
@@ -20,6 +20,9 @@ Second-year Nanotechnology & Nanoelectronics Engineering student with a strong a
 ---
 
 ## 📌 Featured Projects
+
+**[Audio Amplifier Design — Two-Stage BJT Circuit](https://github.com/HassanEmad2006/Audio-Amplifier-BJT-Design)**
+Team project designing a two-stage BJT audio amplifier (Common Emitter with degeneration + Emitter Follower buffer) from a 12V single supply, targeting a tunable voltage gain of 4–10 while driving an 8Ω load. Solved the loading-effect problem with a low-output-impedance buffer stage, achieved PVT-stable biasing through emitter degeneration, and validated the full cascaded design in LTspice.
 
 **[Silicon PN Junction — Temperature-Dependent TCAD Analysis](https://github.com/HassanEmad2006/Silicon-PN-Junction-Temperature-TCAD)**
 Simulated an abrupt silicon p-n junction in Silvaco ATLAS across a 25 K–900 K sweep, characterizing carrier concentration through freeze-out, partial ionization, extrinsic, and intrinsic regions. Observed a non-monotonic built-in potential, peaking around 75–100 K before decreasing at higher temperatures, and validated simulation results against analytical semiconductor theory.
